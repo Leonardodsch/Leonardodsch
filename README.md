@@ -1,16 +1,14 @@
-### Hi there 👋
+## Leonardo Scheuermann
 
-<!--
-**Leonardodsch/Leonardodsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img width="1000" height="250" src="https://user-images.githubusercontent.com/76128123/114486454-540e3c80-9be4-11eb-8a90-8a50adb51c4e.png"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos
+
+- House Rocket Insights
+- Store Sales Prediction
+- Churn Prediction
+- Insiders Clustering
+

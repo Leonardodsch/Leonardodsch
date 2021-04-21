@@ -7,8 +7,8 @@
 
 ### Projetos
 
-- House Rocket Insights
-- Store Sales Prediction
-- Churn Prediction
-- Insiders Clustering
+- **House Rocket Insights**: 
+- **Store Sales Prediction**: 
+- **Churn Prediction**:
+- **Insiders Clustering**: 
 

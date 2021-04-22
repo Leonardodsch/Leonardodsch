@@ -4,7 +4,7 @@
 
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardodsch/)
 
-[![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](leonardo.ds@hotmail.com)
+**Email**: leonardo.ds@hotmail.com
 
 <p align="center">
   <img width="1000" height="250" src="https://user-images.githubusercontent.com/76128123/114486454-540e3c80-9be4-11eb-8a90-8a50adb51c4e.png"/>

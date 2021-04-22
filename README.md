@@ -9,7 +9,8 @@
 
 Olá, me chamo Leonardo e tenho 24 anos. Sou estudante de engenharia da computação pela Universidade do Vale do Rio dos Sinos (UNISINOS), trabalho na área administrativa porém estou buscando um aprofundamento para seguir uma carreira na área de Data Science, por isso procuro fazer projetos práticos que me permitam de alguma forma estar mais próximo a probelmas reais de negócio enfrentados pelas empresas. Busco sempre desafios que me coloquem mais próximo do meu objetivo que é me tornar um profissional na área de dados. Os projetos desenvolvidos ou em desenvolvimentos buscam abordar diferentes problemas para que diferentes técnicas de machine learning posssam ser utilizadas e diferentes abordagens possam ser testadas. Os datalhes de cada projeto podem ser encontrados abaixo na seção Projeto.
 
-### Projetos
+
+## Projetos
 
 - **[House Rocket Insights](https://github.com/Leonardodsch/house-rocket-insights)**: Projeto que tem como objetivo usar dados de venda de casas para gerar insights e ajudar o time de negócios na tomada de decisão. O projeto conta com uma análise exploratória de dados que busca responder as perguntas de negócio propostas, e traz os resultados em um web app construído com Streamlit.
 

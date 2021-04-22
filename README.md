@@ -8,7 +8,7 @@
 ### Projetos
 
 - **[House Rocket Insights](https://github.com/Leonardodsch/house-rocket-insights)**: 
-- **Store Sales Prediction**: 
-- **Churn Prediction**:
-- **Insiders Clustering**: 
+- **[Store Sales Prediction](https://github.com/Leonardodsch/store-sales-prediction)**: 
+- **[Churn Prediction](https://github.com/Leonardodsch/churn-prediction)**:
+- **[Insiders Clustering](https://github.com/Leonardodsch/insiders-clustering)**: 
 

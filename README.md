@@ -1,8 +1,7 @@
 ## Leonardo Scheuermann
 
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-scheuermann-a9b3a0209/)
 
-[Linkedin](https://www.linkedin.com/in/leonardo-scheuermann-a9b3a0209/)
 
 <p align="center">
   <img width="1000" height="250" src="https://user-images.githubusercontent.com/76128123/114486454-540e3c80-9be4-11eb-8a90-8a50adb51c4e.png"/>

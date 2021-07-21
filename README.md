@@ -25,3 +25,5 @@ Olá, me chamo Leonardo e tenho 24 anos. Sou estudante de engenharia da computa�
 
 - **[Insiders Clustering](https://github.com/Leonardodsch/insiders-clustering)**: Projeto que tem como objetivo usar técnicas de clusterização para agrupar clientes de um e-commerce que participarão de um projeto de fidelidade Insiders. A partir da análise e estudo dos dados é preciso determinar quem são os clientes elegíveis para participar do Insiders e de que forma esse grupo será formado, a partir do levantamento de hióteses e respondendo perguntas de negpocio que ajudarão a equipe de marketing e demais setores responsáveis a tomar melhores decisões sobre o que deve ser feito.
 
+- **[Insurance Cross Selling](https://github.com/Leonardodsch/cross-sell)**
+

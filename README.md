@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Olá, me chamo Leonardo e tenho 24 anos. Sou estudante de engenharia da computação pela Universidade do Vale do Rio dos Sinos (UNISINOS), trabalho na área administrativa porém estou buscando um aprofundamento para seguir uma carreira na área de Data Science, por isso procuro fazer projetos práticos que me permitam de alguma forma estar mais próximo a problemas reais de negócio enfrentados pelas empresas. Busco sempre desafios que me coloquem mais próximo do meu objetivo que é me tornar um profissional na área de dados. Os projetos desenvolvidos ou em desenvolvimentos, buscam abordar diferentes problemas para que diferentes técnicas de machine learning posssam ser utilizadas e assim diferentes abordagens possam ser testadas. Os detalhes de cada projeto podem ser encontrados abaixo na seção Projeto.
+Olá, me chamo Leonardo e tenho 24 anos. Sou estudante de Engenharia da Computação pela Universidade do Vale do Rio dos Sinos (UNISINOS), trabalho na área administrativa porém estou buscando um aprofundamento para seguir uma carreira na área de Data Science, por isso procuro fazer projetos práticos que me permitam de alguma forma estar mais próximo a problemas reais de negócio enfrentados pelas empresas. Busco sempre desafios que me coloquem mais próximo do meu objetivo que é me tornar um profissional na área de dados. Os projetos desenvolvidos ou em desenvolvimentos, buscam abordar diferentes problemas para que diferentes técnicas de machine learning posssam ser utilizadas e assim diferentes abordagens possam ser testadas. Os detalhes de cada projeto podem ser encontrados abaixo na seção Projeto.
 
 
 ## Projetos
@@ -25,5 +25,4 @@ Olá, me chamo Leonardo e tenho 24 anos. Sou estudante de engenharia da computa�
 
 - **[Insiders Clustering](https://github.com/Leonardodsch/insiders-clustering)**: Projeto que tem como objetivo usar técnicas de clusterização para agrupar clientes de um e-commerce que participarão de um projeto de fidelidade Insiders. A partir da análise e estudo dos dados é preciso determinar quem são os clientes elegíveis para participar do Insiders e de que forma esse grupo será formado, a partir do levantamento de hipóteses e respondendo perguntas de negócio que ajudarão a equipe de marketing e demais setores responsáveis a tomar melhores decisões sobre o que deve ser feito.
 
-- **[Insurance Cross Selling](https://github.com/Leonardodsch/cross-sell)**
-
+- **[Insurance Cross Selling](https://github.com/Leonardodsch/cross-sell)**: Projeto que utiliza dados de uma seguradora de saúde que realizou uma pesquisa para verificar o interesse dos clientes em um possível seguro de automóvel. O objetivo então é analisar e estudar os dados para conseguir classificar e rankear os clientes de acordo com seu interesse, para que os clientes com maior probabilidade de adquirir o seguro sejam priorizados e colocados nas primeiras posições do ranking, e com isso otimizar o processo de contato da equipe comercial que poderá otimizar o trabalho e tomar decisões mais acertivas. 

@@ -46,15 +46,14 @@ Projeto que tem como objetivo usar dados de venda de casas para gerar insights e
 ### **[Store Sales Prediction](https://github.com/Leonardodsch/store-sales-prediction)** 
 
 Projeto que busca fazer uma previsão de vendas para uma rede de lojas para as 6 semanas futuras, utilizando algoritmos de machine learning e técnicas de regressão. Através do contexto de negócio buscou-se estudar os dados e entender seus impactos e assim poder modelá-los para realizar previsões e posteriormente analisar os resultados e os impactos causados no negócio com a aplicação da solução proposta. A performance do modelo resultaria em uma previsão de retorno de $286.841.799 de acordo com o modelo de negócios da empresa descrito na definição do problema.
+
+### **[Insurance Cross Selling](https://github.com/Leonardodsch/cross-sell)** 
+
+Projeto que utiliza dados de uma seguradora de saúde que realizou uma pesquisa para verificar o interesse dos clientes em um possível seguro de automóvel. O objetivo então é analisar e estudar os dados para conseguir classificar e rankear os clientes de acordo com seu interesse, para que os clientes com maior probabilidade de adquirir o seguro sejam priorizados e colocados nas primeiras posições do ranking. Deste modo, otimizando o processo de contato da equipe comercial e auxiliando na tomada de decisões mais acertivas. Como resultado foi obtido uma performance que resultaria em uma assertividade quase 3 vezes maior do que com o uso de algum método aleatório para selecionar os clientes, de acordo com o modelo de negócios da empresa descrito na definição do problema. Os resultados do modelo podem ser acessados através de uma planilha do Google Sheets. 
  
 ### **[Churn Prediction](https://github.com/Leonardodsch/churn-prediction)** 
 
 Projeto que visa criar um plano de ação para diminuir o número de clientes em churn e mostrar o retorno financeiro da solução para a empresa. Através de dados de uma empresa bancária, buscou-se utilizar ferramentas de análise, visualização e machine learning para encontrar clientes com mais probabilidade de churn e assim classificá-los, tomando medidas que possam diminuir a propensão ao churn, e então calcular o retorno financeiro desta solução para a empresa. A performance do modelo resultaria em um retorno de $938.235,39 a partir de um investimento de $9.800, de acordo com o modelo de negócios da empresa descrito na definição do problema.
-
-### **[Insurance Cross Selling](https://github.com/Leonardodsch/cross-sell)** 
-
-Projeto que utiliza dados de uma seguradora de saúde que realizou uma pesquisa para verificar o interesse dos clientes em um possível seguro de automóvel. O objetivo então é analisar e estudar os dados para conseguir classificar e rankear os clientes de acordo com seu interesse, para que os clientes com maior probabilidade de adquirir o seguro sejam priorizados e colocados nas primeiras posições do ranking. Deste modo, otimizando o processo de contato da equipe comercial e auxiliando na tomada de decisões mais acertivas. Como resultado foi obtido uma performance que resultaria em uma assertividade quase 3 vezes maior do que com o uso de algum método aleatório para selecionar os clientes, de acordo com o modelo de negócios da empresa descrito na definição do problema.
-
 
 ### **[Financial Fraud Detection](https://github.com/Leonardodsch/fraud-detection)** 
 

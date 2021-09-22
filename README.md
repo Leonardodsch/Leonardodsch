@@ -45,7 +45,7 @@ Projeto que tem como objetivo usar dados de venda de casas para gerar insights e
 
 ### **[Store Sales Prediction](https://github.com/Leonardodsch/store-sales-prediction)** 
 
-Projeto que busca fazer uma previsão de vendas para uma rede de lojas para as 6 semanas futuras, utilizando algoritmos de machine learning e técnicas de regressão. Através do contexto de negócio buscou-se estudar os dados e entender seus impactos e assim poder modelá-los para realizar previsões e posteriormente analisar os resultados e os impactos causados no negócio com a aplicação da solução proposta. A performance do modelo resultaria em uma previsão de retorno de $286.841.799 de acordo com o modelo de negócios da empresa descrito na definição do problema.
+Projeto que busca fazer uma previsão de vendas para uma rede de lojas para as 6 semanas futuras, utilizando algoritmos de machine learning e técnicas de regressão. Através do contexto de negócio buscou-se estudar os dados e entender seus impactos e assim poder modelá-los para realizar previsões e posteriormente analisar os resultados e os impactos causados no negócio com a aplicação da solução proposta. A performance do modelo resultaria em uma previsão de retorno de $286.841.799 de acordo com o modelo de negócios da empresa descrito na definição do problema. Os resultados do modelo podem ser acessados a partir de uma chamada via API ou diretamente pelo aplicativo de mensagens Telegram, através de um bot que retorna as predições do modelo. 
 
 ### **[Insurance Cross Selling](https://github.com/Leonardodsch/cross-sell)** 
 

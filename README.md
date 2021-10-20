@@ -59,6 +59,6 @@ Projeto que visa criar um plano de ação para diminuir o número de clientes em
 
 Projeto que tem como objetivo usar dados de transações financeiras para, usando algoritmos e técnicas de machine learning, detectar fraudes e assim evitar que a empresa perca parte da receita com a indenização de clientes. Através de análises e estudo dos dados buscou-se entender quais fatores e atributos mais impactavam e quais características poderiam caracterizar uma fraude. Com uma detecção mais acertiva de atividades fraudulentas é possível obter um retorno finaceiro maior para a empresa e uma maior qualidade do serviço e segurança para os clientes.  A performance obtida com o modelo resultaria em um lucro de $24.014.962,75, de acordo com o modelo de negócios da empresa descrito na definição do problema.
 
-### **[Insiders Clustering](https://github.com/Leonardodsch/insiders-clustering)** **(Em andamento)**
+### **[Insiders Clustering](https://github.com/Leonardodsch/insiders-clustering)**
 
 Projeto que tem como objetivo usar técnicas de clusterização para agrupar clientes de um e-commerce que participarão de um projeto de fidelidade Insiders. A partir da análise e estudo dos dados é preciso determinar quem são os clientes elegíveis para participar do Insiders e de que forma esse grupo será formado, a partir do levantamento de hipóteses e respondendo perguntas de negócio que ajudarão a equipe de marketing e demais setores responsáveis a tomar melhores decisões sobre o que deve ser feito.

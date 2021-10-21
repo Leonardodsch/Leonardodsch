@@ -39,9 +39,6 @@ Classificação, Regressão, Clusterização)
 
 # Projetos
 
-### **[Data Analysis - Insights Project](https://github.com/Leonardodsch/house-rocket-insights)** 
-
-Projeto que tem como objetivo usar dados de venda de casas para gerar insights e ajudar o time de negócios na tomada de decisão. O projeto conta com uma análise exploratória de dados que busca responder as perguntas de negócio propostas, e traz os resultados em um web app construído com Streamlit. A análise feita e os insights gerados resultariam em um faturamento de $1.976.821.731,6 de acordo com o modelo de negócios da empresa descrito na definição do problema.
 
 ### **[Store Sales Prediction](https://github.com/Leonardodsch/store-sales-prediction)** 
 
@@ -51,14 +48,20 @@ Projeto que busca fazer uma previsão de vendas para uma rede de lojas para as 6
 
 Projeto que utiliza dados de uma seguradora de saúde que realizou uma pesquisa para verificar o interesse dos clientes em um possível seguro de automóvel. O objetivo então é analisar e estudar os dados para conseguir classificar e rankear os clientes de acordo com seu interesse, para que os clientes com maior probabilidade de adquirir o seguro sejam priorizados e colocados nas primeiras posições do ranking. Deste modo, otimizando o processo de contato da equipe comercial e auxiliando na tomada de decisões mais acertivas. Como resultado foi obtido uma performance que resultaria em uma assertividade quase 3 vezes maior do que com o uso de algum método aleatório para selecionar os clientes, de acordo com o modelo de negócios da empresa descrito na definição do problema. Os resultados do modelo podem ser acessados através de uma planilha do Google Sheets. 
  
-### **[Churn Prediction](https://github.com/Leonardodsch/churn-prediction)** 
 
-Projeto que visa criar um plano de ação para diminuir o número de clientes em churn e mostrar o retorno financeiro da solução para a empresa. Através de dados de uma empresa bancária, buscou-se utilizar ferramentas de análise, visualização e machine learning para encontrar clientes com mais probabilidade de churn e assim classificá-los, tomando medidas que possam diminuir a propensão ao churn, e então calcular o retorno financeiro desta solução para a empresa. A performance do modelo resultaria em um retorno de $938.235,39 a partir de um investimento de $9.800, de acordo com o modelo de negócios da empresa descrito na definição do problema.
+### **[Insiders Clustering](https://github.com/Leonardodsch/insiders-clustering)**
+
+Projeto que tem como objetivo usar técnicas de clusterização para agrupar clientes de um e-commerce que participarão de um projeto de fidelidade Insiders. A partir da análise e estudo dos dados é preciso determinar quem são os clientes elegíveis para participar do Insiders e de que forma esse grupo será formado, a partir do levantamento de hipóteses e respondendo perguntas de negócio que ajudarão a equipe de marketing e demais setores responsáveis a tomar melhores decisões sobre o que deve ser feito.
 
 ### **[Financial Fraud Detection](https://github.com/Leonardodsch/fraud-detection)** 
 
 Projeto que tem como objetivo usar dados de transações financeiras para, usando algoritmos e técnicas de machine learning, detectar fraudes e assim evitar que a empresa perca parte da receita com a indenização de clientes. Através de análises e estudo dos dados buscou-se entender quais fatores e atributos mais impactavam e quais características poderiam caracterizar uma fraude. Com uma detecção mais acertiva de atividades fraudulentas é possível obter um retorno finaceiro maior para a empresa e uma maior qualidade do serviço e segurança para os clientes.  A performance obtida com o modelo resultaria em um lucro de $24.014.962,75, de acordo com o modelo de negócios da empresa descrito na definição do problema.
 
-### **[Insiders Clustering](https://github.com/Leonardodsch/insiders-clustering)**
+### **[Churn Prediction](https://github.com/Leonardodsch/churn-prediction)** 
 
-Projeto que tem como objetivo usar técnicas de clusterização para agrupar clientes de um e-commerce que participarão de um projeto de fidelidade Insiders. A partir da análise e estudo dos dados é preciso determinar quem são os clientes elegíveis para participar do Insiders e de que forma esse grupo será formado, a partir do levantamento de hipóteses e respondendo perguntas de negócio que ajudarão a equipe de marketing e demais setores responsáveis a tomar melhores decisões sobre o que deve ser feito.
+Projeto que visa criar um plano de ação para diminuir o número de clientes em churn e mostrar o retorno financeiro da solução para a empresa. Através de dados de uma empresa bancária, buscou-se utilizar ferramentas de análise, visualização e machine learning para encontrar clientes com mais probabilidade de churn e assim classificá-los, tomando medidas que possam diminuir a propensão ao churn, e então calcular o retorno financeiro desta solução para a empresa. A performance do modelo resultaria em um retorno de $938.235,39 a partir de um investimento de $9.800, de acordo com o modelo de negócios da empresa descrito na definição do problema.
+
+
+### **[Data Analysis - Insights Project](https://github.com/Leonardodsch/house-rocket-insights)** 
+
+Projeto que tem como objetivo usar dados de venda de casas para gerar insights e ajudar o time de negócios na tomada de decisão. O projeto conta com uma análise exploratória de dados que busca responder as perguntas de negócio propostas, e traz os resultados em um web app construído com Streamlit. A análise feita e os insights gerados resultariam em um faturamento de $1.976.821.731,6 de acordo com o modelo de negócios da empresa descrito na definição do problema.

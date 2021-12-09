@@ -10,7 +10,9 @@
 
 ## Sobre mim
 
-Olá, me chamo Leonardo e tenho 24 anos. Sou estudante de Engenharia da Computação pela Universidade do Vale do Rio dos Sinos (UNISINOS), trabalho na área administrativa porém estou buscando um aprofundamento para seguir uma carreira na área de Data Science, por isso procuro fazer projetos práticos que me permitam de alguma forma estar mais próximo a problemas reais de negócio enfrentados pelas empresas. Busco sempre desafios que me coloquem mais próximo do meu objetivo que é me tornar um profissional na área de dados. Os projetos desenvolvidos ou em desenvolvimentos, buscam abordar diferentes problemas para que diferentes técnicas de machine learning posssam ser utilizadas e assim diferentes abordagens possam ser testadas. Os detalhes de cada projeto podem ser encontrados abaixo na seção Projetos.
+Tenho 24 anos sou estudante de Engenharia da Computação pela Universidade do Vale do Rio dos Sinos (UNISINOS) e atualmente trabalho como cientista de dados. Além dos projetos que desenvolvo dentro da empresa procuro fazer projetos práticos como forma de estudo, com abordagens que me permitam explorar diferentes tipos de problemas enfrentados pelas empresas, propondo soluções através de ferramentas de Data Science como geração de insights e uso de Machine Learning. Os detalhes de cada projeto podem ser encontrados na seção abaixo. 
+
+Como profissional busco sempre estar aprendendo coisas novas de uma forma independente que possam agregar valor ao meu trabalho e aos meus estudos. Em meus projetos de ciência de dados procuro desenvolver soluções relevantes e eficientes para melhorar os resultados da empresa.
 
 ## Ferramentas e tecnologias
 

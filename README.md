@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Tenho 24 anos sou estudante de Engenharia da Computação pela Universidade do Vale do Rio dos Sinos (UNISINOS) e atualmente trabalho como cientista de dados. Além dos projetos que desenvolvo dentro da empresa procuro fazer projetos práticos como forma de estudo, com abordagens que me permitam explorar diferentes tipos de problemas enfrentados pelas empresas, propondo soluções através de ferramentas de Data Science como geração de insights e uso de Machine Learning. Os detalhes de cada projeto podem ser encontrados na seção abaixo. 
+Tenho 24 anos sou estudante de Engenharia da Computação pela Universidade do Vale do Rio dos Sinos (Unisinos) e atualmente trabalho como Cientista de Dados. Além dos projetos que desenvolvo dentro da empresa procuro fazer projetos práticos como forma de estudo, com abordagens que me permitam explorar diferentes tipos de problemas enfrentados pelas empresas, propondo soluções através de ferramentas de Data Science como geração de insights e uso de Machine Learning. Os detalhes de cada projeto podem ser encontrados na seção abaixo. 
 
 Como profissional busco sempre estar aprendendo coisas novas de uma forma independente que possam agregar valor ao meu trabalho e aos meus estudos. Em meus projetos de ciência de dados procuro desenvolver soluções relevantes e eficientes para melhorar os resultados da empresa.
 
